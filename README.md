@@ -18,8 +18,7 @@
 
 
 ## 🎯 성능 개선
-- 캐시 적용으로 응답속도 70% 개선
-- 페이징 처리로 메모리 사용량 최적화
+- 
 
 ## 📚 API 문서
-- Swagger URL: http://example.com/swagger
+- 
